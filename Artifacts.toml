@@ -1,0 +1,40 @@
+[[rocm_smi_lib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e561b02937ef22e94c997d40e2f5a1313a3a873"
+libc = "glibc"
+os = "linux"
+
+    [[rocm_smi_lib.download]]
+    sha256 = "9c2c61393195c3d9defdec2c9f03835728ccf8572ad6983f7c8f38ed901347f3"
+    url = "https://github.com/JuliaBinaryWrappers/rocm_smi_lib_jll.jl/releases/download/rocm_smi_lib-v4.0.0+0/rocm_smi_lib.v4.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[rocm_smi_lib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8209d6507507bc2d5477c2ebb0f5387c762e5bc"
+libc = "glibc"
+os = "linux"
+
+    [[rocm_smi_lib.download]]
+    sha256 = "3103a2d187662fba88893bd0f6293a2421a596784822788b0f8a64917fdf3900"
+    url = "https://github.com/JuliaBinaryWrappers/rocm_smi_lib_jll.jl/releases/download/rocm_smi_lib-v4.0.0+0/rocm_smi_lib.v4.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[rocm_smi_lib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "781b25322f2d19f87ead9a35fbaedfde2b93f271"
+libc = "musl"
+os = "linux"
+
+    [[rocm_smi_lib.download]]
+    sha256 = "ccff71fb947df8f5c2502e84df4eab5e84a5729e5b980d911914fbfb35fff1a0"
+    url = "https://github.com/JuliaBinaryWrappers/rocm_smi_lib_jll.jl/releases/download/rocm_smi_lib-v4.0.0+0/rocm_smi_lib.v4.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[rocm_smi_lib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc626bb2fce6d0faeac2d943e80ebba2230b200d"
+libc = "musl"
+os = "linux"
+
+    [[rocm_smi_lib.download]]
+    sha256 = "8cb5ab3cec8fb5665f95d2aaf5ac866a14c804bbaa3e1997a76fc3bc8c1f8c5b"
+    url = "https://github.com/JuliaBinaryWrappers/rocm_smi_lib_jll.jl/releases/download/rocm_smi_lib-v4.0.0+0/rocm_smi_lib.v4.0.0.x86_64-linux-musl-cxx11.tar.gz"
